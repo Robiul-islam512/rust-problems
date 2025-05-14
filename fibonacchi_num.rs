@@ -36,5 +36,4 @@ fn fibo(n:i32){
         }
         print!("\n");
     }
-    // println!("{}\n");
 }
